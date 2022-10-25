@@ -1,4 +1,4 @@
-# Run this project locally:
+## Run this project locally:
 
 Step 1: Goto Terminal 
 Step 2: git clone https://github.com/abastola/ML-7641.git
